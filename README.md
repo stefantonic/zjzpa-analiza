@@ -1,2 +1,1 @@
-# zjzpa-analiza
-*completed*
+
