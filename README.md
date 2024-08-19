@@ -1,0 +1,2 @@
+# zjzpa-analiza
+*completed*
