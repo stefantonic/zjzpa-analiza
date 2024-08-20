@@ -58,7 +58,7 @@ if __name__ == "__main__":
     directory_paths = [os.path.join(root_directory, d) for d in os.listdir(root_directory) if os.path.isdir(os.path.join(root_directory, d))]
     
     # Define the output file path
-    output_file_path = '/home/stefan/Desktop/main/output.txt'
+    output_file_path = '/home/stefan/Desktop/backup/output.txt'
     
     # Call the main function
     main(directory_paths, output_file_path)
