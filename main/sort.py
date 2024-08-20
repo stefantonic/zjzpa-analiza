@@ -78,5 +78,5 @@ def main(input_filename, output_filename):
 
 # Replace 'input.txt' and 'output.csv' with your file names
 if __name__ == "__main__":
-    main('/home/stefan/Desktop/main/output.txt', 'output.csv')
+    main('/home/stefan/Desktop/zjzpa-analiza-main/main/output.txt', 'output.csv')
 
