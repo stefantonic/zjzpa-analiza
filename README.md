@@ -1,6 +1,6 @@
 # Nezavisna analiza podataka kvaliteta vazduha suspendovanih cestica PM2.5µg/m3 i PM10µg/m3 na teritoriji Strelista
 
-Nezavisna analiza podataka koja je uradjena uz pomoc python-a i pratecih datoteki izvedana je za naselje Streliste. Streliste je jedno od 7 mernih mesta za pracenje kvaliteta vazduha u lokalnoj mrezi na teritoriji grada Panceva. Stanica se nalazi na lokaciji 44.863801,20.6666571, **mobilna** je  i prema **Eol klasifikaciji** 
+Nezavisna analiza podataka koja je uradjena uz pomoc python-a i pratecih datoteki izvedena je za naselje Streliste. Streliste je jedno od 7 mernih mesta za pracenje kvaliteta vazduha u lokalnoj mrezi na teritoriji grada Panceva. Stanica se nalazi na lokaciji 44.863801,20.6666571, **mobilna** je  i prema **Eol klasifikaciji** 
 
 tip stanice je: **bazan**->B,<br> 
 tip oblasti je: **urban**->U,<br>
