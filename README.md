@@ -22,11 +22,17 @@ PM10          | Jedno uzorkovanje u toku 24h u laboratoriji, druga cetiri se vrs
 # Postojece stanice
 
 Cara Dusana -> T/U/RC -> koordinate 7472621.54 4969543.54 -> **automatska merenja**
+
 Vatrogasni dom -> B/U/RCI -> koordinate 7472732.02 4968331.34 -> **automatska merenja**
+
 Vojlovica -> I/U/IR ->  koordinate 7474301.42 4966661.42 -> **automatska merenja**
+
 Starcevo -> B/S/IR -> koordinate 7477111.06 4962655.41 -> **automatska merenja**
+
 Narodna basta -> B/U/N -> koordinate 7473079.90 4969292.89 -> **automatsko merenje**
+
 Streliste -> B/U/R -> koordinate 7474301,89 4971176,43 -> **manuelno merenje**
+
 Nova Misa -> B/U/R -> koordinate 7474020,43 4968831,86 -> **manuelno merenje**
 
 Klasifikacija 
