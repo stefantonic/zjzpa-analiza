@@ -11,7 +11,7 @@ Stanica na Strelistu se svakodnevno analizira i podatke evidentira **manuelno** 
 Iako je u **"Planu kvaliteta vazduha i aglomeraciji  Panceva"** za period 2022 do 2027 navedeno da stanica prati samo **PM10µg/m3**, rezultati 24  casovnih merenja kvaliteta vazduha na sajtu Zavoda za javno zdravlje Pancevo pokazuju i druge 
 suspendovane cestice **PM2.5µg/m3** kao sto su:<br>
 
-Vrednost iz nezavisne analize<br>
+Rezultati analize suspendovanih cestica u naselju Streliste 2017-2024 god.
 <p align="center">
   <img src="https://github.com/6c756e6172/zjzpa-analiza/blob/main/median.png?raw=true" />
 </p>
