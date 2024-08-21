@@ -21,28 +21,22 @@ PM10          | Jedno uzorkovanje u toku 24h u laboratoriji, druga cetiri se vrs
 
 # Postojece stanice
 
-Cara Dusana -> T/U/RC -> koordinate 7472621.54 4969543.54 -> **automatska merenja**
+Cara Dusana -> T/U/RC -> koordinate 7472621.54 4969543.54 -> **automatska merenja**<br>
+Vatrogasni dom -> B/U/RCI -> koordinate 7472732.02 4968331.34 -> **automatska merenja**<br>
+Vojlovica -> I/U/IR ->  koordinate 7474301.42 4966661.42 -> **automatska merenja**<br>
+Starcevo -> B/S/IR -> koordinate 7477111.06 4962655.41 -> **automatska merenja**<br>
+Narodna basta -> B/U/N -> koordinate 7473079.90 4969292.89 -> **automatsko merenje**<br>
+Streliste -> B/U/R -> koordinate 7474301,89 4971176,43 -> **manuelno merenje**<br>
+Nova Misa -> B/U/R -> koordinate 7474020,43 4968831,86 -> **manuelno merenje**<br>
 
-Vatrogasni dom -> B/U/RCI -> koordinate 7472732.02 4968331.34 -> **automatska merenja**
-
-Vojlovica -> I/U/IR ->  koordinate 7474301.42 4966661.42 -> **automatska merenja**
-
-Starcevo -> B/S/IR -> koordinate 7477111.06 4962655.41 -> **automatska merenja**
-
-Narodna basta -> B/U/N -> koordinate 7473079.90 4969292.89 -> **automatsko merenje**
-
-Streliste -> B/U/R -> koordinate 7474301,89 4971176,43 -> **manuelno merenje**
-
-Nova Misa -> B/U/R -> koordinate 7474020,43 4968831,86 -> **manuelno merenje**
-
-Klasifikacija 
-tip stanice: T -> saobracaj, I -> industrija, B -> bazna
-tip oblasti: U -> urbana, S -> prigradska, R-> ruralna
-karakteristike oblasti: 
-R -> stambena, C -> poslovna, I -> industrijska
-A -> poljoprivredna, N -> prirodna, RC -> stambeno/poslovna
-RC -> poslovno/industrijska, CI -> industrijsko/stambena, IR -> stambeno/poslovna
-RCI -> stambeno/poslovno/industrijska, AN -> poljoprivredno/prirodna
+Klasifikacija<br> 
+tip stanice: T -> saobracaj, I -> industrija, B -> bazna<br>
+tip oblasti: U -> urbana, S -> prigradska, R-> ruralna<br>
+karakteristike oblasti: <br>
+R -> stambena, C -> poslovna, I -> industrijska<br>
+A -> poljoprivredna, N -> prirodna, RC -> stambeno/poslovna<br>
+RC -> poslovno/industrijska, CI -> industrijsko/stambena, IR -> stambeno/poslovna<br>
+RCI -> stambeno/poslovno/industrijska, AN -> poljoprivredno/prirodna<br>
 
 ## Vrsta i stepen zagadjenja
 
