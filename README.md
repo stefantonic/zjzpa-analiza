@@ -4,6 +4,10 @@
   <img src="https://github.com/6c756e6172/zjzpa-analiza/blob/main/median.png?raw=true" />
 </p>
 
+<p align="center">
+  <img src="https://github.com/6c756e6172/zjzpa-analiza/blob/main/min-max.png?raw=true" />
+</p>
+
 Nezavisna analiza podataka koja je uradjena uz pomoc python-a i pratecih datoteki izvedana je za naselje Streliste. Streliste je jedno od 7 mernih mesta za pracenje kvaliteta vazduha u lokalnoj mrezi na teritoriji grada Panceva. Stanica se nalazi na lokaciji 7474301,89 4971176,43, **mobilna** je  i prema **Eol klasifikaciji** 
 
 tip stanice je: **bazan**->B,<br> 
