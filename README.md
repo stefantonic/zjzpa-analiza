@@ -2,13 +2,13 @@
 
 Nezavisna analiza podataka koja je uradjena uz pomoc python-a i pratecih datoteki izvedana je za naselje Streliste. Streliste je jedno od 7 mernih mesta za pracenje kvaliteta vazduha u lokalnoj mrezi na teritoriji grada Panceva. Stanica se nalazi na lokaciji 7474301,89 4971176,43, **mobilna** je  i prema **Eol klasifikaciji** 
 
-tip stanice je: **bazan**->B, 
-tip oblasti je: **urban**->U, 
-karakteristika oblasti je: **stambena** -> R 
+tip stanice je: **bazan**->B,<br> 
+tip oblasti je: **urban**->U,<br>
+karakteristika oblasti je: **stambena** -> R<br> 
 
-Stanica na Strelistu se svakodnevno analizira i podatke evidentira **manuelno** ovlascena laboratorija [Zavod za javno zdravlje Pancevo](https://www.zjzpa.org.rs/vazduh/).
+Stanica na Strelistu se svakodnevno analizira i podatke evidentira **manuelno** ovlascena laboratorija [Zavod za javno zdravlje Pancevo](https://www.zjzpa.org.rs/vazduh/).<br>
 
-Iako je u **"Planu kvaliteta vazduha i aglomeraciji  Panceva"** za period 2022 do 2027 navedeno da stanica prati samo **PM10µg/m3**, rezultati 24  casovnih merenja kvaliteta vazduha na sajtu Zavoda za javno zdravlje Pancevo pokazuju i druge suspendovane cestice **PM2.5µg/m3** kao sto su:
+Iako je u **"Planu kvaliteta vazduha i aglomeraciji  Panceva"** za period 2022 do 2027 navedeno da stanica prati samo **PM10µg/m3**, rezultati 24  casovnih merenja kvaliteta vazduha na sajtu Zavoda za javno zdravlje Pancevo pokazuju i druge suspendovane cestice **PM2.5µg/m3** kao sto su:<br>
 
 |Suspendovane cestice | Princip uzorkovanja i merenja | Granicna gornja vrednost koja ne bi trebala biti predjena za kal. godinu           
 |----------------|----------------|----------------| 
@@ -40,6 +40,6 @@ RCI -> stambeno/poslovno/industrijska, AN -> poljoprivredno/prirodna<br>
 
 ## Vrsta i stepen zagadjenja
 
-Glavni izvori zagadjivaca vazduha u Pancevu cine produkti sagorevanja goriva u domacinstvima, industrija, toplana, individualne kotlarnice i lozista, saobracaj, gradjevinska delatnost i neodgovarajuce skladistenje sirovina, neadekvatne deponije smeca i nedovoljan nivo higijene javnih prostora u gradu.
+Glavni izvori zagadjivaca vazduha u Pancevu cine produkti sagorevanja goriva u domacinstvima, industrija, toplana, individualne kotlarnice i lozista, saobracaj, gradjevinska delatnost i neodgovarajuce skladistenje sirovina, neadekvatne deponije smeca i nedovoljan nivo higijene javnih prostora u gradu.<br>
 
-Dominantan izvor u Pancevu predstavlja industrija, **na rasprostiranje zagadjujucih materija u vazduhu na teritoriji grada Panceva najvise uticu dominantni jugoistocni i severni vetrovi tako da se emisija iz Juzne industrijske zone rasprostiru do centra grada duz reke Tamis i duz sela Starcevo** zatim slede lozista, saobracaj je na trecem mestu.
+Dominantan izvor u Pancevu predstavlja industrija, **na rasprostiranje zagadjujucih materija u vazduhu na teritoriji grada Panceva najvise uticu dominantni jugoistocni i severni vetrovi tako da se emisija iz Juzne industrijske zone rasprostiru do centra grada duz reke Tamis i duz sela Starcevo** zatim slede lozista, saobracaj je na trecem mestu.<br>
