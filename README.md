@@ -11,7 +11,7 @@ Stanica na Strelistu se svakodnevno analizira i podatke evidentira **manuelno** 
 Iako je u **"Planu kvaliteta vazduha i aglomeraciji  Panceva"** za period 2022 do 2027 navedeno da stanica prati samo **PM10µg/m3**, rezultati 24  casovnih merenja kvaliteta vazduha na sajtu Zavoda za javno zdravlje Pancevo pokazuju i druge 
 suspendovane cestice **PM2.5µg/m3** kao sto su:<br>
 
-Rezultati analize suspendovanih cestica u naselju Streliste 2017-2024 god.
+Rezultati analize suspendovanih cestica u naselju Streliste u periodu 2017-2024 god. konstatuju da je kvalitet vazduha DOBAR do UMERENO DOBAR sa povremenim visokim skokovima pojedinih cestica cija su posledica meteoroloski uslov npr. (**jugoistocni** i **severni** vetar), industrija, individualna lozista u periodu grejne sezone.<br>
 <p align="center">
   <img src="https://github.com/6c756e6172/zjzpa-analiza/blob/main/median.png?raw=true" />
 </p>
@@ -31,13 +31,13 @@ PM10          | Jedno uzorkovanje u toku 24h u laboratoriji, druga cetiri se vrs
 
 # Postojece stanice
 
-Cara Dusana -> T/U/RC -> koordinate 7472621.54 4969543.54 -> **automatska merenja**<br>
-Vatrogasni dom -> B/U/RCI -> koordinate 7472732.02 4968331.34 -> **automatska merenja**<br>
-Vojlovica -> I/U/IR ->  koordinate 7474301.42 4966661.42 -> **automatska merenja**<br>
-Starcevo -> B/S/IR -> koordinate 7477111.06 4962655.41 -> **automatska merenja**<br>
-Narodna basta -> B/U/N -> koordinate 7473079.90 4969292.89 -> **automatsko merenje**<br>
-Streliste -> B/U/R -> koordinate 7474301,89 4971176,43 -> **manuelno merenje**<br>
-Nova Misa -> B/U/R -> koordinate 7474020,43 4968831,86 -> **manuelno merenje**<br>
+Cara Dusana -> T/U/RC -> **automatska merenja**<br>
+Vatrogasni dom -> B/U/RCI -> **automatska merenja**<br>
+Vojlovica -> I/U/IR -> **automatska merenja**<br>
+Starcevo -> B/S/IR -> **automatska merenja**<br>
+Narodna basta -> B/U/N -> **automatsko merenje**<br>
+Streliste -> B/U/R -> **manuelno merenje**<br>
+Nova Misa -> B/U/R -> **manuelno merenje**<br>
 
 Klasifikacija<br> 
 tip stanice: T -> saobracaj, I -> industrija, B -> bazna<br>
