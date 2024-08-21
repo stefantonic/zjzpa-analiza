@@ -1,13 +1,5 @@
 # Nezavisna analiza podataka kvaliteta vazduha suspendovanih cestica PM2.5µg/m3 i PM10µg/m3 na teritoriji Strelista
 
-<p align="center">
-  <img src="https://github.com/6c756e6172/zjzpa-analiza/blob/main/median.png?raw=true" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/6c756e6172/zjzpa-analiza/blob/main/min-max.png?raw=true" />
-</p>
-
 Nezavisna analiza podataka koja je uradjena uz pomoc python-a i pratecih datoteki izvedana je za naselje Streliste. Streliste je jedno od 7 mernih mesta za pracenje kvaliteta vazduha u lokalnoj mrezi na teritoriji grada Panceva. Stanica se nalazi na lokaciji 7474301,89 4971176,43, **mobilna** je  i prema **Eol klasifikaciji** 
 
 tip stanice je: **bazan**->B,<br> 
@@ -16,7 +8,17 @@ karakteristika oblasti je: **stambena** -> R<br>
 
 Stanica na Strelistu se svakodnevno analizira i podatke evidentira **manuelno** ovlascena laboratorija [Zavod za javno zdravlje Pancevo](https://www.zjzpa.org.rs/vazduh/).<br>
 
-Iako je u **"Planu kvaliteta vazduha i aglomeraciji  Panceva"** za period 2022 do 2027 navedeno da stanica prati samo **PM10µg/m3**, rezultati 24  casovnih merenja kvaliteta vazduha na sajtu Zavoda za javno zdravlje Pancevo pokazuju i druge suspendovane cestice **PM2.5µg/m3** kao sto su:<br>
+Iako je u **"Planu kvaliteta vazduha i aglomeraciji  Panceva"** za period 2022 do 2027 navedeno da stanica prati samo **PM10µg/m3**, rezultati 24  casovnih merenja kvaliteta vazduha na sajtu Zavoda za javno zdravlje Pancevo pokazuju i druge 
+suspendovane cestice **PM2.5µg/m3** kao sto su:<br>
+
+Vrednost iz nezavisne analize<br>
+<p align="center">
+  <img src="https://github.com/6c756e6172/zjzpa-analiza/blob/main/median.png?raw=true" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/6c756e6172/zjzpa-analiza/blob/main/min-max.png?raw=true" />
+</p>
 
 |Suspendovane cestice | Princip uzorkovanja i merenja | Granicna gornja vrednost koja ne bi trebala biti predjena za kal. godinu           
 |----------------|----------------|----------------| 
