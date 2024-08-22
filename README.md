@@ -9,7 +9,7 @@ karakteristika oblasti je: **stambena** -> R<br>
 Stanica na Strelistu se svakodnevno analizira i podatke evidentira **manuelno** ovlascena laboratorija [Zavod za javno zdravlje Pancevo](https://www.zjzpa.org.rs/vazduh/).<br>
 
 Iako je u **"Planu kvaliteta vazduha i aglomeraciji  Panceva"** za period 2022 do 2027 navedeno da stanica prati samo **PM10µg/m3**, rezultati 24  casovnih merenja kvaliteta vazduha na sajtu Zavoda za javno zdravlje Pancevo pokazuju i druge 
-suspendovane cestice **PM2.5µg/m3** kao sto su:<br>
+suspendovane cestice **PM2.5µg/m3**<br>
 
 Rezultati analize suspendovanih cestica u naselju Streliste u periodu 2017-2024 god. konstatuju da je kvalitet vazduha DOBAR do UMERENO DOBAR sa povremenim visokim skokovima pojedinih cestica cija su posledica meteoroloski uslov npr. (**jugoistocni** i **severni** vetar), industrija, individualna lozista u periodu grejne sezone.<br>
 <p align="center">
