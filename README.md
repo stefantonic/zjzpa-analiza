@@ -13,11 +13,15 @@ suspendovane cestice **PM2.5µg/m3** kao sto su:<br>
 
 Rezultati analize suspendovanih cestica u naselju Streliste u periodu 2017-2024 god. konstatuju da je kvalitet vazduha DOBAR do UMERENO DOBAR sa povremenim visokim skokovima pojedinih cestica cija su posledica meteoroloski uslov npr. (**jugoistocni** i **severni** vetar), industrija, individualna lozista u periodu grejne sezone.<br>
 <p align="center">
-  <img src="https://github.com/6c756e6172/zjzpa-analiza/blob/main/median.png?raw=true" />
+  <img src="https://github.com/6c756e6172/zjzpa-analiza/blob/main/heatmap_median_values.png?raw=true" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/6c756e6172/zjzpa-analiza/blob/main/min-max.png?raw=true" />
+  <img src="https://github.com/6c756e6172/zjzpa-analiza/blob/main/pcolormesh_5.png?raw=true" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/6c756e6172/zjzpa-analiza/blob/main/heatmap_highest.png?raw=true" />
 </p>
 
 |Suspendovane cestice | Princip uzorkovanja i merenja | Granicna gornja vrednost koja ne bi trebala biti predjena za kal. godinu           
