@@ -54,7 +54,7 @@ def main(directory_paths, output_file_path):
 
 if __name__ == "__main__":
     # Define the list of directory paths
-    root_directory = '/home/stefan/Desktop/zjzpa'
+    root_directory = '/home/stefan/Desktop/zjzpa-analiza-main/main/'
     directory_paths = [os.path.join(root_directory, d) for d in os.listdir(root_directory) if os.path.isdir(os.path.join(root_directory, d))]
     
     # Define the output file path
